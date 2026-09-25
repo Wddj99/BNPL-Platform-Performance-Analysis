@@ -5,8 +5,9 @@
 Independent portfolio project analyzing transaction performance issues in a simulated BNPL platform using **Business Analysis, Data Analysis, Agile, and Power BI**.
 
 > This project uses simulated data for portfolio purposes.
-## 📁 Project Files
 
+## 📁 Project Files
+- [View Full Business Analysis Case Study](اسم-الملف.pdf)
 - [📄 Business Requirements Document (BRD)](BNPL_Platform_Performance_BRD.pdf)
 - [📊 Business Analysis Project Workbook](BNPL_Transaction_Data_Investigation.xlsx)
 ---
