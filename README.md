@@ -8,6 +8,10 @@ Independent portfolio project analyzing transaction performance issues in a simu
 ## 📄 Full Case Study
 
 [View Full Business Analysis Case Study](Waad_Aljabr_BNPL_BA_Portfolio_Case_Study.pdf)
+## 📄 Project Documentation
+
+- [Full Business Analysis Case Study](اسم-ملف-البورتفوليو.pdf)
+- [Business Requirements Document (BRD)](BNPL_BRD.pdf)
 ---
 
 ## 📊 Dashboard
