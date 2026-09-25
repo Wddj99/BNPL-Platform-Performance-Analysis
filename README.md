@@ -7,7 +7,7 @@ Independent portfolio project analyzing transaction performance issues in a simu
 > This project uses simulated data for portfolio purposes.
 ## 📄 Full Case Study
 
-[View Full Business Analysis Case Study](BNPL_Business_Analysis_Case_Study.pdf)
+[View Full Business Analysis Case Study](Waad_Aljabr_BNPL_BA_Portfolio_Case_Study.PDF)
 ---
 
 ## 📊 Dashboard
